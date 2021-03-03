@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0737c182-33fe-47e5-b63f-1f460386008b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1pFyj2O1d4U4Vc2me6eQpy9ztBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -43,11 +45,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614793264788</updated>
-      <workItem from="1614793269418" duration="299000" />
+      <workItem from="1614793269418" duration="545000" />
     </task>
+    <task id="LOCAL-00001" summary="good">
+      <created>1614793694614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614793694614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="good" />
+    <option name="LAST_COMMIT_MESSAGE" value="good" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1614793773613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614793773613" />
+    <state x="469" y="110" key="FileChooserDialogImpl" timestamp="1614793791853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="469" y="110" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614793791853" />
+    <state x="281" y="102" key="Vcs.Push.Dialog.v2" timestamp="1614793708471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614793708471" />
   </component>
 </project>
